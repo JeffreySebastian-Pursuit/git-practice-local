@@ -1,0 +1,1 @@
+A haiku is a poem where the first line has 5 syllables, second has 7 syllables, and third has 5 syllables.
